@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/willmorim/ci-cd-boas-praticas/issues"
   },
-  "homepage": "https://github.com/willmorim/ci-cd-boas-praticas#readme"
+  "homepage": "https://github.com/willmorim/ci-cd-boas-praticas#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
